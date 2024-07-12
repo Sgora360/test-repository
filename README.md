@@ -1,2 +1,2 @@
-# test-repository
-This is a test description
+# My very first repo
+Sgora is an awesome Teacher! I will leave him a nice review.
